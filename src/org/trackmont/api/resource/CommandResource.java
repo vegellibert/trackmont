@@ -1,5 +1,5 @@
 /*
- * Copyright 2015 - 2017 Vicente Venegas (vicente@trackmont.com)
+ * Copyright 2015 - 2017 Vicente Venegas (vicente@republik.ec)
  * Copyright 2016 Gabor Somogyi (gabor.g.somogyi@gmail.com)
  * Copyright 2017 Andrey Kunitsyn (andrey@trackmont.com)
  *

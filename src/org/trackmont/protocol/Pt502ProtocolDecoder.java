@@ -1,5 +1,5 @@
 /*
- * Copyright 2012 - 2017 Vicente Venegas (vicente@trackmont.com)
+ * Copyright 2012 - 2017 Vicente Venegas (vicente@republik.ec)
  * Copyright 2012 Luis Parada (luis.parada@gmail.com)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");

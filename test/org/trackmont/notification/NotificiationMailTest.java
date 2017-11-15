@@ -12,7 +12,7 @@ import java.util.Properties;
 public class NotificiationMailTest {
 
     private static final String FROM = "notification@trackmont.com";
-    private static final String TO = "vicente@trackmont.com";
+    private static final String TO = "vicente@republik.ec";
 
     private static final String BODY = "Test email body.";
     private static final String SUBJECT = "Test";

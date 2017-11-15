@@ -1,5 +1,4 @@
 /*
- * Copyright 2017 Vicente Venegas (vicente@trackmont.com)
  * Copyright 2017 Andrey Kunitsyn (andrey@trackmont.com)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");

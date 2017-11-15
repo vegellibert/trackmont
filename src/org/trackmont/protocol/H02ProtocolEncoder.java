@@ -1,6 +1,6 @@
 /*
  * Copyright 2016 Gabor Somogyi (gabor.g.somogyi@gmail.com)
- *           2016 Vicente Venegas (vicente@trackmont.com)
+ *           2016 Vicente Venegas (vicente@republik.ec)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
