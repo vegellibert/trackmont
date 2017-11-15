@@ -1,0 +1,5 @@
+[submodule "trackmont-web"]
+	path = trackmont-web
+	url = ../trackmont-web.git
+	branch = master
+	ignore = all
